@@ -62,7 +62,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/phythayygoras/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadthiosadewa@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
 
 </div>
 
@@ -76,7 +76,7 @@
   ### 👀 Profile Views
   ![Profile Views](https://komarev.com/ghpvc/?username=YooSadewa&color=blueviolet&style=for-the-badge)
   
-  
+
   ---
   
   **✨ "Code is like humor. When you have to explain it, it's bad." – Cory House**
