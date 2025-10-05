@@ -48,7 +48,7 @@
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YooSadewa&show_icons=true&theme=radical&hide_border=true&count_private=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YooSadewa&theme=radical&hide_border=true)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=YooSadewa&theme=radical&hide_border=true)
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YooSadewa&layout=compact&theme=radical&hide_border=true)
 
