@@ -1,76 +1,114 @@
-<div align="center">
+<img align="left" src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/flags/indonesia.gif" width="10%" style="display:inline;"><img align="right" src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/flags/indonesia.gif" width="10%" style="display:inline;">
 
-# Hi, I'm Muhammad Thio Sadewa 👋
-
-### Full-Stack Web Developer | TRPL Student 25 @ Politeknik Negeri Batam
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=333333&center=true&vCenter=true&width=500&lines=Building+with+Laravel+%26+.NET;Turning+ideas+into+clean+code;Always+learning%2C+always+shipping" alt="Typing SVG" />
-
-</div>
-
-<br/>
-
-## 👨‍💻 About Me
-
-I'm a Software Engineering (TRPL) student who enjoys building practical, real-world web applications — from internal recruitment systems to non-conformance tracking tools. I work comfortably across both the PHP/Laravel and .NET ecosystems, and I like digging into the details: database design, security hardening, and clean architecture.
-
-- 🎓 Studying **Teknologi Rekayasa Perangkat Lunak** at **Politeknik Negeri Batam**
-- 🛠️ Comfortable working full-stack — backend logic, database design, and frontend UI
-- 🔐 Interested in application security (IDOR fixes, sanitization, access control)
-- 📊 Enjoy modeling systems with UML before building them
-- 🌱 Currently exploring caching strategies (Redis) and AI-assisted development tools
-
-<br/>
-
-## 🎓 Education
-
-| Institution | Program | Focus |
-|---|---|---|
-| **Politeknik Negeri Batam (Polibatam)** | Teknik Informatika – D4 Teknologi Rekayasa Perangkat Lunak (TRPL) | Software Engineering, Database Systems, Project Management |
-
-<br/>
-
-## 🧰 Tech Stack
-
-**Languages**
-
-<p> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/> <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/> <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript"/> <img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=csharp&logoColor=white" alt="C#"/> </p>
-
-**Frameworks & Libraries**
-
-<p> <img src="https://img.shields.io/badge/Laravel-000000?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js"/> <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS"/> <img src="https://img.shields.io/badge/ASP.NET_Core-000000?style=flat-square&logo=dotnet&logoColor=512BD4" alt="ASP.NET Core"/> </p>
-
-**Databases**
-
-<p> <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL"/> <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/SQL_Server-000000?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927" alt="SQL Server"/> </p>
-
-**Tools**
-
-<p> <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032" alt="Git"/> <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker"/> <img src="https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman"/> <img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma"/> </p>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YooSadewa&show_icons=true&theme=default&hide_border=true&title_color=333333&text_color=555555&icon_color=555555&bg_color=ffffff" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YooSadewa&theme=default&hide_border=true&background=ffffff&ring=555555&fire=555555&currStreakLabel=333333" alt="GitHub Streak" height="165"/>
-
-</div>
-
-<br/>
-
-## 📫 Let's Connect
-
-<p align="center">
-<a href="mailto:muhammadthiosadewa@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"/></a>
-<a href="https://linkedin.com/in/muhammad-thio-sadewa"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
-<a href="https://instagram.com/pryoject_"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
+<h1 align="center">Hi 👋, I'm Thio</h1>
+<h3 align="center">A Full-Stack Developer & Student from Batam, Indonesia</h3>
+<p align="center">Saya mahasiswa Teknik Rekayasa Perangkat Lunak (TRPL) di Politeknik Negeri Batam yang tertarik membangun aplikasi web dari ujung ke ujung 🌐 — mulai dari merancang database, membangun API, sampai menyusun tampilan yang enak dipakai. Saya suka gonta-ganti stack antara Laravel (PHP) dan .NET (C#) di backend, dan tetap betah di React untuk sisi frontend. Lagi seru-serunya eksplorasi tools baru dan memperdalam DevOps 🛠️</p>
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="thio" /> 
 </p>
 
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="50" height="50"/>
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50"/>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50"/>
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50"/>
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50"/>
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50"/>
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50"/>
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50"/>
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,css,html,git,figma,materialui,npm,postgres" />
+</p>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
+
+- 🔭 Lagi mengerjakan **Ecogreen E-Recruitment** (sistem rekrutmen/ATS untuk PT Ecogreen Oleochemicals) dan **NC Board** (sistem tracking Non-Conformance internal)
+
+- 🌱 Lagi belajar **DevOps** dan eksplorasi **Cursor CLI**
+
+- 👨‍💻 Terbiasa kerja dengan **Laravel (PHP)** dan **.NET (C#)** di backend, plus **React** di frontend
+
+- 💬 Ask me about **PHP, Laravel, C#, .NET, React, dan database design**
+
+- 📫 How to reach me **YOUR_EMAIL@example.com**
+
+- 📄 Lagi mendalami database programming (normalisasi, stored procedure, trigger, transaction, cursor, NoSQL) dan UML modeling (use case, sequence, class diagram)
+
+- ⚡ Fun fact **paling produktif kalau lagi debugging tengah malam**
+
+<br>
+<h3 align="left">Connect with me:</h3>
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="40" /></a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" width="40" /></a>
+<a href="mailto:YOUR_EMAIL@example.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" width="40" /></a>
+<a href="https://instagram.com/YOUR_INSTAGRAM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="40" /></a>
+ </div>
+<br>
+
+<h3 align="left">Languages and Tools:</h3>
+
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet,nodejs,express" />
+  </a>
+</p>
+
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,tailwind" />
+  </a>
+</p>
+
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mssql" />
+  </a>
+</p>
+
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,idea" />
+  </a>
+</p>
+
+<br/>
+
+<h3 align="left">Trophy:</h3>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
+</div>
+<br><br>
+
+<h3 align="left">GitHub Stats:</h3>
 <div align="center">
 
-<sub>Thanks for stopping by 🙌</sub>
+![Thio's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=midnight-purple&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=contribs,issues)
 
 </div>
+
+<br><br>
+
+<h3 align="left">Activity:</h3>
+
+![Thio's Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&custom_title=Thio's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br><br>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Terbuka buat kolaborasi dan ngobrol soal project</b>, jadi kalau mau say <b>hi, dengan senang hati!</b> :)</em>
+
+<br>
+<p align="right"> Created with 🧡 by Thio</p>
