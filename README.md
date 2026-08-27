@@ -76,21 +76,14 @@
   </a>
 </p>
 
-<br/>
-
-<h3 align="left">GitHub Stats:</h3>
 <div align="center">
-
-![Thio's GitHub stats](https://github-readme-stats.vercel.app/api?username=YooSadewa&theme=midnight-purple&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=contribs,issues)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YooSadewa/YooSadewa/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YooSadewa/YooSadewa/output/github-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/YooSadewa/YooSadewa/output/github-snake.svg">
+</picture>
 </div>
-
-<br><br>
-
-<h3 align="left">Activity:</h3>
-
-![Thio's Graph](https://github-readme-activity-graph.vercel.app/graph?username=YooSadewa&custom_title=Thio's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-<br><br>
+<br>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Open to collaboration and discussing projects</b>, so if you want to say <b>hi, with pleasure!</b> :)</em>
 
