@@ -85,6 +85,60 @@
 </div>
 <br>
 
+<div align="center">
+  <picture>
+    <!-- Dark Mode -->
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/YooSadewa/github-profile-summary-cards/main/profile-summary-card-output/blueberry/0-profile-details.svg"
+    />
+    <!-- Light Mode -->
+    <img 
+      src="https://raw.githubusercontent.com/YooSadewa/github-profile-summary-cards/main/profile-summary-card-output/buefy/0-profile-details.svg" 
+      alt="Profile Details"
+    />
+  </picture>
+  
+  <div align="center">
+    <picture>
+      <!-- Dark Mode -->
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://raw.githubusercontent.com/YooSadewa/github-profile-summary-cards/main/profile-summary-card-output/blueberry/1-repos-per-language.svg"
+      />
+      <!-- Light Mode -->
+      <img 
+        src="https://raw.githubusercontent.com/YooSadewa/github-profile-summary-cards/main/profile-summary-card-output/buefy/1-repos-per-language.svg" 
+        alt="Repos per Language"
+      />
+    </picture>
+    <picture>
+      <!-- Dark Mode -->
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://raw.githubusercontent.com/YooSadewa/github-profile-summary-cards/main/profile-summary-card-output/blueberry/2-most-commit-language.svg"
+      />
+      <!-- Light Mode -->
+      <img 
+        src="https://raw.githubusercontent.com/YooSadewa/github-profile-summary-cards/main/profile-summary-card-output/buefy/2-most-commit-language.svg" 
+        alt="Most Commit Language"
+      />
+    </picture>
+  </div>
+
+  <picture>
+    <source 
+      srcset="https://streak-stats.demolab.com?user=YooSadewa&theme=blueberry&hide_border=true" 
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://streak-stats.demolab.com?user=YooSadewa&theme=buefy&hide_border=true" 
+      media="(prefers-color-scheme: light)" />
+    <img 
+      src="https://streak-stats.demolab.com?user=YooSadewa&theme=buefy&hide_border=true" 
+      alt="GitHub Streak" />
+  </picture>
+</div>
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Open to collaboration and discussing projects</b>, so if you want to say <b>hi, with pleasure!</b> :)</em>
 
 <br>
