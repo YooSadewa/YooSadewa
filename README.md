@@ -90,7 +90,7 @@
     <!-- Dark Mode -->
     <source 
       media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/YooSadewa/github-profile-summary-cards/main/profile-summary-card-output/blueberry/0-profile-details.svg"
+      srcset="https://raw.githubusercontent.com/YooSadewa/github-profile-summary-cards/main/profile-summary-card-output/radical/0-profile-details.svg"
     />
     <!-- Light Mode -->
     <img 
@@ -104,7 +104,7 @@
       <!-- Dark Mode -->
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://raw.githubusercontent.com/YooSadewa/github-profile-summary-cards/main/profile-summary-card-output/blueberry/1-repos-per-language.svg"
+        srcset="https://raw.githubusercontent.com/YooSadewa/github-profile-summary-cards/main/profile-summary-card-output/radical/1-repos-per-language.svg"
       />
       <!-- Light Mode -->
       <img 
@@ -116,7 +116,7 @@
       <!-- Dark Mode -->
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://raw.githubusercontent.com/YooSadewa/github-profile-summary-cards/main/profile-summary-card-output/blueberry/2-most-commit-language.svg"
+        srcset="https://raw.githubusercontent.com/YooSadewa/github-profile-summary-cards/main/profile-summary-card-output/radical/2-most-commit-language.svg"
       />
       <!-- Light Mode -->
       <img 
@@ -128,7 +128,7 @@
 
   <picture>
     <source 
-      srcset="https://streak-stats.demolab.com?user=YooSadewa&theme=blueberry&hide_border=true" 
+      srcset="https://streak-stats.demolab.com?user=YooSadewa&theme=radical&hide_border=true" 
       media="(prefers-color-scheme: dark)" />
     <source 
       srcset="https://streak-stats.demolab.com?user=YooSadewa&theme=buefy&hide_border=true" 
