@@ -14,7 +14,6 @@
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50"/>
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50"/>
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50"/>
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50"/>
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50"/>
 </div>
 
@@ -58,21 +57,21 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,dart,react,nextjs,flutter,tailwind,bootstrap" />
   </a>
 </p>
 
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,graphql" />
   </a>
 </p>
 
 - Tools & Others
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,postman,idea,materialui,notion,npm" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,figma,postman,idea,materialui,notion,npm" />
   </a>
 </p>
 
