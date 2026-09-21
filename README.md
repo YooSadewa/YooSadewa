@@ -1,6 +1,6 @@
 <img align="left" src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/flags/indonesia.gif" width="10%" style="display:inline;"><img align="right" src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/flags/indonesia.gif" width="10%" style="display:inline;">
 
-<h1 align="center">Hi 👋, I'm Muhammad Thio Sadewa</h1>
+<h1 align="center">Hi 👋, I'm Yoou</h1>
 <h3 align="center">A Full-Stack Web Developer & Student from Batam, Indonesia</h3>
 <p align="center">I am a full-stack web developer currently studying Software Engineering at the Batam State Polytechnic. I have been honing my programming skills for about 4 years and have 8 months of professional experience in the workforce. I am interested in building web applications from start to finish—from designing and building to testing. I am accustomed to working with PHP and JavaScript-based tech stacks, and recently I have been delving deeper into ASP.NET Core and DevOps.🛠️</p>
 <p align="center"> 
