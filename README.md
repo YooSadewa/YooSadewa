@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Yoou</h1>
 <h3 align="center">A Full-Stack Web Developer & Student from Batam, Indonesia</h3>
-<p align="center">I am (he/him) a full-stack web developer currently studying Software Engineering at the Batam State Polytechnic. I have been honing my programming skills for about 4 years and have 8 months of professional experience in the workforce. I am interested in building web applications from start to finish—from designing and building to testing. I am accustomed to working with PHP and JavaScript-based tech stacks, and recently I have been delving deeper into ASP.NET Core and DevOps.🛠️</p>
+<p align="center">I am (he/him) a full-stack web developer currently studying Software Engineering at the Batam State Polytechnic. I have been honing my programming skills for about 4 years and have 8 months of professional experience in the workforce. I am interested in building web applications from start to finish, from designing and building to testing. I am accustomed to working with PHP and JavaScript-based tech stacks, and recently I have been delving deeper into ASP.NET Core and DevOps.🛠️</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=YooSadewa&label=Profile%20views&color=0e75b6&style=flat" alt="thio" /> 
 </p>
@@ -47,31 +47,31 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-- Backend
+- Programming Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet,nodejs" />
+    <img src="https://skillicons.dev/icons?i=php,cs,js,ts,python,dart" />
   </a>
 </p>
 
-- Frontend
+- Frameworks and Libraries
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css,dart,react,nextjs,flutter,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=laravel,dotnet,nextjs,react,flutter,tailwind,bootstrap,materialui" />
   </a>
 </p>
 
-- Database
+- Databases
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,graphql" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres" />
   </a>
 </p>
 
 - Tools & Others
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,figma,postman,idea,materialui,notion,npm" />
+    <img src="https://skillicons.dev/icons?i=html,css,git,github,graphql,vscode,visualstudio,androidstudio,figma,postman,idea,notion,npm" />
   </a>
 </p>
 
