@@ -15,6 +15,7 @@
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50"/>
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50"/>
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50"/>
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="50" height="50"/>
 </div>
 
 <br>
