@@ -58,7 +58,7 @@
 - Frameworks and Libraries
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,dotnet,nextjs,react,flutter,tailwind,bootstrap,materialui" />
+    <img src="https://skillicons.dev/icons?i=laravel,dotnet,nextjs,react,nestjs,flutter,tailwind,bootstrap,prisma,materialui" />
   </a>
 </p>
 
